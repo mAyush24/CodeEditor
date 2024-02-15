@@ -1,0 +1,18 @@
+{
+    "base": "vs-dark",
+    "inherit": true,
+    "rules": [
+        {
+            "background": "#f5f5f5",
+            "token": ""
+        },
+        {
+            "foreground": "#000000",
+            "token": "comment"
+        }
+    ],
+    "colors": {
+        "editor.background": "#0F0A19",
+        "editor.foreground": "#0F0A19"
+    }
+}
